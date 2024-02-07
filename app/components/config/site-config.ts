@@ -38,7 +38,7 @@ const GridItems: GridItemInterface[] = [
       color: "#f50",
       buttonTitle: "Listen Here",
       buttonLink: "https://soundcloud.com/oncite",
-      buttonSecondaryText: "573",
+      buttonSecondaryText: "580",
     },
     {
       layout: "1x2",
@@ -48,7 +48,7 @@ const GridItems: GridItemInterface[] = [
       username: "@oncite",
       buttonTitle: "Join",
       buttonLink: "https://discord.gg/ZeHftpeUPY",
-      buttonSecondaryText: "44",
+      buttonSecondaryText: "+",
       color: "#5865F2",
     },
     {
@@ -58,7 +58,7 @@ const GridItems: GridItemInterface[] = [
       icon: "github",
       username: "@fireflightg",
       buttonTitle: "Follow",
-      buttonSecondaryText: "36",
+      buttonSecondaryText: "+",
       buttonLink: "https://github.com/fireflightg",
       color: "#070707",
     },
