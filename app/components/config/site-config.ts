@@ -111,7 +111,7 @@ const GridItems: GridItemInterface[] = [
     {
       layout: "2x1",
       type: "music",
-      title: "Bachlors",
+      title: "Bachelor's",
       icon: "degree",
       promotion: "CURRENT",
       
