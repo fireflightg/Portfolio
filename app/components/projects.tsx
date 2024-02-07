@@ -1,7 +1,7 @@
 import { GridItemInterface } from "./config/site-config";
 import { Star } from "lucide-react";
 import Link from "next/link";
-import Icon from "./icon";
+import Icon from "./Icon";
 
 const Project = ({ item }: { item: GridItemInterface }) => {
   return (
