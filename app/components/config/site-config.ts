@@ -133,7 +133,7 @@ const GridItems: GridItemInterface[] = [
       type: "project",
       title: "Google Data Analytics Specialization",
       icon: "Coursera",
-      color: "#070707",
+      color: "#FFF",
       buttonLink: "https://www.coursera.org/account/accomplishments/specialization/5XSRGNMQHCNY",
       stars: 2024,
     },
