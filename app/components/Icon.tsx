@@ -1,6 +1,13 @@
 const Icons: {
   [key: string]: JSX.Element;
 } = {
+  coursera:(
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 50,50 m -30,0 a 30,30 0 1,0 60,0 a 30,30 0 1,0 -60,0" fill="none" stroke="white" stroke-width="5"/>
+  <path d="M 50,20 L 50,80" stroke="black" stroke-width="4"/>
+</svg>
+    
+  ),
 
   linkedin:(
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
