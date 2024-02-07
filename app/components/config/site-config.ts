@@ -101,9 +101,9 @@ const GridItems: GridItemInterface[] = [
       title: "Linkedin",
       icon: "linkedin",
       username: "Saahib Mohammed",
-      buttonTitle: "Follow",
+      buttonTitle: "Connect",
       buttonLink: "https://www.linkedin.com/in/saahib",
-      buttonSecondaryText: "279",
+      buttonSecondaryText: "+",
       color: "#0077B5",
       description:
         "Full-stack Developer / I create music, manage artists,edit, and create full stack applications",
