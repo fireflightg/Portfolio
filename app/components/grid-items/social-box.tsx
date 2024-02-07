@@ -1,7 +1,7 @@
 import Link from "next/link"
 import Button from "../button"
 import { GridItemInterface } from "../config/site-config"
-import Icon from "../icon"
+import Icon from "../Icon"
 
 
 const SocialBox = ({item} : {item:GridItemInterface} ) => {
