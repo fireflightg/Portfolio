@@ -57,7 +57,7 @@ if(scope.current){
     y: 0,
     scale: 1,
   },
-    {duration: 0.08,
+    {duration: 0.03,
       type:"spring",
   stiffness:  200,
 damping: 35,
