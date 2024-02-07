@@ -145,6 +145,7 @@ const GridItems: GridItemInterface[] = [
       description:
         "Custom AI image detection software done in js to detect spieces in an enviorment",
       icon: "github",
+        color: "#070707",
       buttonTitle: "View Project",
       buttonLink:
         "https://github.com/fireflightg/NativeCheck",
