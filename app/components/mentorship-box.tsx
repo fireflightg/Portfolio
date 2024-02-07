@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { GridItemInterface } from "./config/site-config"
-import Icon from "./icon"
+import Icon from "./Icon"
 
 const MentorshipBox = ({item}:{item:GridItemInterface}) => {
     return  <Link
