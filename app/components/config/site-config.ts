@@ -66,7 +66,7 @@ const GridItems: GridItemInterface[] = [
       layout: "2x4",
       type: "equipment",
       title: "Pc Specs",
-      image: "/img.jpg",
+      image: "img.jpg",
       equipments: [
         {
           title: "Ryzen 9 7600x",
